@@ -10,7 +10,7 @@
       "Handle multiple Payment Options"
     ],
     "image": {
-      "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/go3pos.jpeg"
+      "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/go3pos.jpeg?raw=true"
     },
     "year": 2020
   },
@@ -25,7 +25,7 @@
       "Enrollment"
      ],
     "image": {
-      "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/lara.png"
+      "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/lara.png?raw=true"
     },
     "year": 2022
   },
@@ -40,7 +40,7 @@
       "Timelogs"
     ],
     "image": {
-      "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/hris.png"
+      "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/hris.png?raw=true"
     },
     "year": 2021
   },
@@ -54,7 +54,7 @@
       "Timelogs"
     ],
     "image": {
-      "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/timekeeping.png"
+      "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/timekeeping.png?raw=true"
     },
     "year": 2021
   },
@@ -68,7 +68,7 @@
       "Offline call management"
     ],
     "image": {
-      "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/kaufmann.png"
+      "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/kaufmann.png?raw=true"
     },
     "year": 2022
   }
