@@ -7,7 +7,7 @@
     "features": [
       "Authentication",
       "Schedule Appointments",
-      "Handle multiple Payment Options",
+      "Handle multiple Payment Options"
     ],
     "image": {
       "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/go3pos.jpeg"
@@ -22,7 +22,7 @@
     "features": [
       "Skills Tree",
       "Leaderboard",
-      "Enrollment",
+      "Enrollment"
      ],
     "image": {
       "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/lara.png"
@@ -37,7 +37,7 @@
     "features": [
       "Authentication",
       "Leaves tracking and management",
-      "Timelogs",
+      "Timelogs"
     ],
     "image": {
       "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/hris.png"
@@ -51,7 +51,7 @@
     "description": "Timekeeping app for Innovative employees installed on Pax terminal",
     "features": [
       "Authentication",
-      "Timelogs",
+      "Timelogs"
     ],
     "image": {
       "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/timekeeping.png"
@@ -65,7 +65,7 @@
     "description": "Mobile app for Territory and District managers",
     "features": [
       "Authentication",
-      "Offline call management",
+      "Offline call management"
     ],
     "image": {
       "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/kaufmann.png"
