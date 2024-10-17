@@ -33,8 +33,7 @@
     "projectId": 3,
     "name": "Innovative HRIS",
     "category": "Mobile",
-    "description": "Easily record your time in/time out via QR code scanning and PIN code from the Timekeeping app. View your schedule, assigned project(s), time log reports, profile, and announcements from the admin.
-    Apply for requests on the go, receive reminder notifications for your Timesheet and EOS time log, and submit feedback and suggestions",
+    "description": "Easily record your time in/time out via QR code scanning and PIN code from the Timekeeping app. View your schedule, assigned project(s), time log reports, profile, and announcements from the admin.Apply for requests on the go, receive reminder notifications for your Timesheet and EOS time log, and submit feedback and suggestions",
     "features": [
       "Timekeeping",
       "Attendance and Time logs",
