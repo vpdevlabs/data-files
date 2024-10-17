@@ -10,7 +10,7 @@
       "Handle multiple Payment Options"
     ],
     "image": {
-      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/main/projects-images/go3pos.jpeg"
+      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/refs/heads/main/projects-images/go3pos.jpeg"
     },
     "year": 2020
   },
@@ -23,9 +23,9 @@
       "Skills Tree",
       "Leaderboard",
       "Enrollment"
-    ],
+     ],
     "image": {
-      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/main/projects-images/lara.png"
+      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/refs/heads/main/projects-images/lara.png"
     },
     "year": 2022
   },
@@ -33,7 +33,7 @@
     "projectId": 3,
     "name": "Innovative HRIS",
     "category": "Mobile",
-    "description": "Easily record your time in/time out via QR code scanning and PIN code from the Timekeeping app. View your schedule, assigned project(s), time log reports, profile, and announcements from the admin. Apply for requests on the go, receive reminder notifications for your Timesheet and EOS time log, and submit feedback and suggestions.",
+    "description": "Easily record your time in/time out via QR code scanning and PIN code from the Timekeeping app. View your schedule, assigned project(s), time log reports, profile, and announcements from the admin.Apply for requests on the go, receive reminder notifications for your Timesheet and EOS time log, and submit feedback and suggestions",
     "features": [
       "Timekeeping",
       "Attendance and Time logs",
@@ -44,13 +44,14 @@
       "Feedback and Suggestion"
     ],
     "image": {
-      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/main/projects-images/hris.png"
+      
+      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/refs/heads/main/projects-images/hris.png"
     },
     "year": 2021
   },
-  {
+    {
     "projectId": 4,
-    "name": "Innovative Timekeeping",
+    "name": "Innovative Timekeeing",
     "category": "Mobile",
     "description": "Timekeeping app for Innovative employees installed on Pax terminal",
     "features": [
@@ -58,11 +59,11 @@
       "Timelogs"
     ],
     "image": {
-      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/main/projects-images/timekeeping.png"
+      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/refs/heads/main/projects-images/timekeeping.png"
     },
     "year": 2021
   },
-  {
+    {
     "projectId": 5,
     "name": "Kaufmann Mobile",
     "category": "Mobile",
@@ -72,7 +73,7 @@
       "Offline call management"
     ],
     "image": {
-      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/main/projects-images/kaufmann.png"
+      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/refs/heads/main/projects-images/kaufmann.png"
     },
     "year": 2022
   }
