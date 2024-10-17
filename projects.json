@@ -1,50 +1,75 @@
 [
   {
-    "projectId": 1,
-    "name": "Portfolio Website",
-    "category": "Web Development",
-    "description": "A personal portfolio website showcasing my web development skills and projects.",
+    "projectId": 2,
+    "name": "Go3 POS",
+    "category": "Mobile",
+    "description": "Go3 Point of Sale App",
     "features": [
-      "Responsive design",
-      "Interactive UI",
-      "Portfolio gallery",
-      "Contact form"
+      "Authentication",
+      "Schedule Appointments",
+      "Handle multiple Payment Options",
     ],
     "image": {
-      "url": "https://example.com/images/portfolio-website.png"
+      "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/go3pos.jpeg"
     },
-    "year": 2023
+    "year": 2020
   },
   {
-    "projectId": 2,
-    "name": "Mobile E-commerce App",
-    "category": "Mobile Development",
-    "description": "A mobile e-commerce application allowing users to browse and purchase products.",
+    "projectId": 1,
+    "name": "L.A.R.A.",
+    "category": "Mobile,
+    "description": "Learning and Achievement Records App",
     "features": [
-      "Product search",
-      "User authentication",
-      "Shopping cart",
-      "Payment gateway integration"
-    ],
+      "Skills Tree",
+      "Leaderboard",
+      "Enrollment",
+     ],
     "image": {
-      "url": "https://example.com/images/mobile-ecommerce-app.png"
+      "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/lara.png"
     },
     "year": 2022
   },
   {
     "projectId": 3,
-    "name": "Social Media Analytics Tool",
-    "category": "Data Analytics",
-    "description": "A tool to track and analyze social media engagement metrics.",
+    "name": "Innovative HRIS",
+    "category": "Mobile",
+    "description": "HRIS mobile app for Innovative employees",
     "features": [
-      "Real-time data tracking",
-      "Customizable reports",
-      "Sentiment analysis",
-      "User-friendly dashboard"
+      "Authentication",
+      "Leaves tracking and management",
+      "Timelogs",
     ],
     "image": {
-      "url": "https://example.com/images/social-media-analytics-tool.png"
+      "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/hris.png"
     },
     "year": 2021
+  },
+    {
+    "projectId": 4,
+    "name": "Innovative Timekeeing",
+    "category": "Mobile",
+    "description": "Timekeeping app for Innovative employees installed on Pax terminal",
+    "features": [
+      "Authentication",
+      "Timelogs",
+    ],
+    "image": {
+      "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/timekeeping.png"
+    },
+    "year": 2021
+  },
+    {
+    "projectId": 5,
+    "name": "Kaufmann Mobile",
+    "category": "Mobile",
+    "description": "Mobile app for Territory and District managers",
+    "features": [
+      "Authentication",
+      "Offline call management",
+    ],
+    "image": {
+      "url": "https://github.com/vpdevlabs/data-files/blob/d2c8c2f7ffe63df2410e55c77c77de780eea85cf/projects-images/kaufmann.png"
+    },
+    "year": 2022
   }
 ]
