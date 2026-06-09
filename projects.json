@@ -1,79 +1,88 @@
 [
   {
-    "projectId": 2,
-    "name": "Go3 POS",
+    "projectId": 6,
+    "name": "Resserra (Listoria)",
     "category": "Mobile",
-    "description": "Go3 Point of Sale App.",
+    "group": "personal",
+    "description": "Offline-first inventory app for multi-branch Filipino SMBs. Stock receive, dispatch, and adjustments work fully offline and sync automatically on reconnect. Flutter (BLoC, Drift) on mobile, NestJS + PostgreSQL on the backend.",
     "features": [
-      "Authentication",
-      "Schedule Appointments",
-      "Handle multiple Payment Options"
+      "Offline-first sync",
+      "Multi-branch",
+      "Outbox queue",
+      "Flutter + NestJS"
     ],
     "image": {
-      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/main/projects-images/go3pos.jpeg"
+      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/main/projects-images/resserra.png"
     },
-    "year": 2020
+    "year": 2026
+  },
+  {
+    "projectId": 5,
+    "name": "Kaufmann Mobile",
+    "category": "Mobile",
+    "group": "personal",
+    "description": "Android app for Territory and District managers - offline call management with sync on reconnect.",
+    "features": [
+      "Offline-first",
+      "Field operations",
+      "Call management"
+    ],
+    "image": {
+      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/main/projects-images/kaufmann.png"
+    },
+    "year": 2022
   },
   {
     "projectId": 1,
     "name": "L.A.R.A.",
     "category": "Mobile",
-    "description": "Learning and Achievement Records App.",
+    "group": "work",
+    "description": "Internal Android app built at Trend Micro for learning and achievement tracking - skills tree, leaderboard, enrollment. Built alongside primary support role; contributed to Employee of the Quarter recognition. (Proprietary - screenshots not shown.)",
     "features": [
-      "Skills Tree",
+      "Skills tree",
       "Leaderboard",
       "Enrollment"
     ],
-    "image": {
-      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/main/projects-images/lara.png"
-    },
-    "year": 2022
+    "year": 2018
   },
   {
     "projectId": 3,
     "name": "Innovative HRIS",
     "category": "Mobile",
-    "description": "Easily record your time in/time out via QR code scanning and PIN code from the Timekeeping app. View your schedule, assigned project(s), time log reports, profile, and announcements from the admin. Apply for requests on the go, receive reminder notifications for your Timesheet and EOS time log, and submit feedback and suggestions.",
+    "group": "work",
+    "description": "Client-deployed HRIS mobile app - QR/PIN timekeeping, schedules, time-log reports, leave requests, announcements, and push notifications. Android + iOS. (Proprietary - screenshots not shown.)",
     "features": [
       "Timekeeping",
-      "Attendance and Time logs",
-      "Profile",
-      "Announcements",
-      "Notifications",
-      "Request Application",
-      "Feedback and Suggestion"
+      "Attendance",
+      "Requests",
+      "Notifications"
     ],
-    "image": {
-      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/main/projects-images/hris.png"
-    },
     "year": 2021
   },
   {
     "projectId": 4,
     "name": "Innovative Timekeeping",
     "category": "Mobile",
-    "description": "Timekeeping app for Innovative employees installed on Pax terminal.",
+    "group": "work",
+    "description": "Client-deployed timekeeping app for PAX Aries8 terminals - PIN and QR-based time-in/time-out. (Proprietary - screenshots not shown.)",
     "features": [
+      "PAX terminal",
       "Authentication",
-      "Timelogs"
+      "Time logs"
     ],
-    "image": {
-      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/main/projects-images/timekeeping.png"
-    },
     "year": 2021
   },
   {
-    "projectId": 5,
-    "name": "Kaufmann Mobile",
+    "projectId": 2,
+    "name": "Go3 POS",
     "category": "Mobile",
-    "description": "Mobile app for Territory and District managers.",
+    "group": "work",
+    "description": "Client-deployed point-of-sale terminal app - authentication, appointment scheduling, multi-method payments. Kotlin. (Proprietary - screenshots not shown.)",
     "features": [
-      "Authentication",
-      "Offline call management"
+      "POS",
+      "Scheduling",
+      "Multi-method payments"
     ],
-    "image": {
-      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/main/projects-images/kaufmann.png"
-    },
-    "year": 2022
+    "year": 2020
   }
 ]
