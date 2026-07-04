@@ -4,12 +4,12 @@
     "name": "Resserra (Listoria)",
     "category": "Mobile",
     "group": "personal",
-    "description": "Offline-first inventory app for multi-branch Filipino SMBs. Stock receive, dispatch, and adjustments work fully offline and sync automatically on reconnect. Flutter (BLoC, Drift) on mobile, NestJS + PostgreSQL on the backend.",
+    "description": "Offline-first inventory platform for Filipino SMBs - home, sari-sari, and multi-branch. Stock receive, dispatch, transfer, and adjustments work fully offline and sync on reconnect. Flutter (BLoC, Drift) on mobile, NestJS + PostgreSQL backend. In live private pilots, including a construction contractor running Costerra - its project cost and worker payroll module.",
     "features": [
       "Offline-first sync",
-      "Multi-branch",
-      "Outbox queue",
-      "Flutter + NestJS"
+      "Multi-branch + stock transfers",
+      "Flutter + NestJS",
+      "Costerra pilot (costs + payroll)"
     ],
     "image": {
       "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/main/projects-images/resserra.png"
@@ -84,5 +84,30 @@
       "Multi-method payments"
     ],
     "year": 2020
+  },
+  {
+    "projectId": 7,
+    "name": "Nail Salon Website",
+    "category": "Web",
+    "group": "work",
+    "description": "Marketing website for a nail salon, delivered through a previous employer - responsive front-end presenting services and driving customer inquiries. Front-end delivery. (Client-owned - no public copy available.)",
+    "features": [
+      "Responsive front-end",
+      "Services showcase",
+      "Customer inquiries"
+    ],
+    "year": 2021
+  },
+  {
+    "projectId": 8,
+    "name": "Restaurant Website",
+    "category": "Web",
+    "group": "work",
+    "description": "Marketing website for a restaurant, delivered through a previous employer - responsive front-end with menu presentation. Front-end delivery. (Client-owned - no public copy available.)",
+    "features": [
+      "Responsive front-end",
+      "Menu presentation"
+    ],
+    "year": 2021
   }
 ]
