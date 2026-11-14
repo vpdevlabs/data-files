@@ -4,12 +4,12 @@
     "name": "ClearPath ADHD",
     "category": "Web",
     "group": "work",
-    "description": "Marketing website for a California ADHD telehealth practice - services, education content, an ADHD quiz, and a fit-check flow whose contact and intake forms post to a separate intake API. Built with Astro 5, Tailwind CSS, and React islands; served on Cloudflare Workers with builds on every push.",
+    "description": "Marketing website for a California ADHD telehealth practice - service pages, education articles, an ADHD quiz, and a fit-check flow with intake forms that post to a separate API.",
     "features": [
-      "Astro 5 + Tailwind",
-      "React islands",
       "ADHD quiz + fit-check",
-      "Cloudflare Workers"
+      "Online intake forms",
+      "Service + education pages",
+      "Insurance coverage"
     ],
     "image": {
       "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/main/projects-images/clearpath.png"
