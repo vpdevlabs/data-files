@@ -1,5 +1,22 @@
 [
   {
+    "projectId": 9,
+    "name": "ClearPath ADHD",
+    "category": "Web",
+    "group": "work",
+    "description": "Marketing website for a California ADHD telehealth practice - services, education content, an ADHD quiz, and a fit-check flow whose contact and intake forms post to a separate intake API. Built with Astro 5, Tailwind CSS, and React islands; served on Cloudflare Workers with builds on every push.",
+    "features": [
+      "Astro 5 + Tailwind",
+      "React islands",
+      "ADHD quiz + fit-check",
+      "Cloudflare Workers"
+    ],
+    "image": {
+      "url": "https://raw.githubusercontent.com/vpdevlabs/data-files/main/projects-images/clearpath.png"
+    },
+    "year": 2026
+  },
+  {
     "projectId": 6,
     "name": "Resserra (Listoria)",
     "category": "Mobile",
